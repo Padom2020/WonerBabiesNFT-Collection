@@ -1,0 +1,12 @@
+
+  {
+    "name": "#9",
+    "description": "A rich collection of 10,000 uniquely crafted NFT babies, one for every beautiful baby ever made!",
+    "image": "ipfs://QmPFFxRU9sXcAKx9QKPgG3Da3CMtSezyPhyYtLP82swN7P/9.png",
+    "edition": 1,
+    "date": 1630952370615,
+    "attributes": [
+      { "trait_type": "Background", "value": "purple" },
+      { "trait_type": "Logo Color", "value": "blue and white" }
+    ]
+  }
